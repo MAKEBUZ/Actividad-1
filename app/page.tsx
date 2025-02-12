@@ -9,7 +9,7 @@ export default function Home() {
         <div >
           <h1 className='text-black font-bold m-5'>Red Heaven</h1>
           <p className="text-gray-500 text-justify text-sm m-5 text-">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores velit doloribus eaque est rerum illo officia fuga temporibus, magnam vel, odio tenetur quibusdam nemo id possimus fugit voluptas sit inventore?</p>
-          <span className='bg-red-400 rounded-lg text-sm m-5'>#tailwind</span>
+          <span className='bg-red-400 rounded-lg text-sm m-5 text-justify'>#tailwind</span>
           <span className='bg-red-400 rounded-lg text-sm'>#frontendeverything</span>
         </div>
       </section>
